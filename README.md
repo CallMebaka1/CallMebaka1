@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me
 Discord: Kaæzaシ#8138 or Kaæza2シ#6969
-Ciao&nbsp;Ca
 
 - 🛠  Tech Stack
 
