@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CallMebaka1
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 - 📫 How to reach me
 Discord: Kaæzaシ#8138 or Kaæza2シ#6969
 
