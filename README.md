@@ -17,6 +17,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>My Bot</h1>
 
-<a href="https://top.gg/bot/786332970163241010">
-  <img src="https://top.gg/api/widget/786332970163241010.svg" alt="DKMusic" />
-  </a>
+[![Discord Bots](https://top.gg/api/widget/786332970163241010.svg)](https://top.gg/bot/786332970163241010)
