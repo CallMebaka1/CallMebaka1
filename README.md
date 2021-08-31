@@ -21,4 +21,3 @@ You can click the Preview link to take a look at your changes.
 
 <h1>My Discord</h1>
 
-<iframe src="https://discord.com/widget?id=878380216639189073&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
