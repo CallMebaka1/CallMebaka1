@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 - 📫 How to reach me
-Discord: Kaæzaシ#8138 or Kaæza2シ#6969
+Discord: Kaæzaシ#8138
 
 - 🛠  Tech Stack
 
