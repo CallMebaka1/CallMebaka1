@@ -15,6 +15,7 @@ Discord: Kaæzaシ#8138 or Kaæza2シ#6969
 CallMebaka1/CallMebaka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
 <h1>My Discord</h1>
 
 <p>
@@ -22,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 			<img src="https://canary.discordapp.com/api/guilds/878380216639189073/embed.png" alt="Discord server">
 		</a>
 	</p>
-
+</div>
