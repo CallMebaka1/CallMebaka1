@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CallMebaka1
+- 👋 Hi, I’m @HeyTommaso
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 - 📫 How to reach me
@@ -15,9 +15,6 @@ Discord: Kaæzaシ#8138 or Kaæza2シ#6969
 CallMebaka1/CallMebaka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>My Bot</h1>
-
-[![Discord Bots](https://top.gg/api/widget/786332970163241010.svg)](https://top.gg/bot/786332970163241010)
-
 <h1>My Discord</h1>
+<iframe src="https://discord.com/widget?id=878380216639189073&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
